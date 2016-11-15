@@ -1,0 +1,1 @@
+# DotNetOnOpenShift3
